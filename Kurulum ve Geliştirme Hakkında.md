@@ -8,3 +8,8 @@ açarak "pip install opencv-python" komutu ile indirme işlemini başlatabiliriz
 işleme kısmında belli kütüphanelere ihtiyaç duyacağımdan adımları takip ediyorum.
         "File > Settings > "Project 'projemizin adı' > Python Interpreter > Ekle Kısmında " opencv-pyt"  > ekle 
 işlemlerinden sonra gerekli ekletniyi kurmuş oluyorum.
+veya direkt pycharmı açarak pip install opencv-python yazarak indiriyoruz kurulum ile alakalı ekstra bir şey yok.
+
+[3] Ekstra bizim opencv ile gelen numpy kütüphanesini de import ediyoruz.
+
+[4] 
